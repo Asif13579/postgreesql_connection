@@ -1,0 +1,6 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,admin_code,capital,population,demsity
+Tokyo,Tokyo,35.6839,139.7744,Japan,JP,JPN,Tokyo,JP-13,primary,39105000,4381.5
+New York,New York,40.6943,-73.9249,United States,US,USA,New York,US-NY,,18713220,10934
+Mexico City,Mexico City,19.4333,-99.1333,Mexico,MX,MEX,Ciudad de México,MX-DIF,primary,21505000,14584.7
+Mumbai,Mumbai,18.9667,72.8333,India,IN,IND,Maharashtra,IN-MH,admin,22186000,41890.7
+São Paulo,Sao Paulo,-23.5504,-46.6339,Brazil,BR,BRA,São Paulo Paulo,BR-SP,admin,22495000,20285.3
